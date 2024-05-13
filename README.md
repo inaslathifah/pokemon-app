@@ -1,1 +1,1 @@
-# pokemongames
+# pokemon-app
